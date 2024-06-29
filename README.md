@@ -1,4 +1,4 @@
-# 4 in 1 AI Toolkit Powered by Google Gemini API
+# 4 in 1 AI Toolkit Powered by Google Gemini 
 
 This application, built using `Streamlit` and `Google Gemini`, offers four main features:
 

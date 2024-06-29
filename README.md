@@ -1,6 +1,6 @@
 # 4 in 1 AI Toolkit Powered by Google Gemini API
 
-This application, built using `Streamlit` and `Google Gemini`, offers four main features:
+This application, built using `Streamlit` and `Google Gemini API`, offers four main features:
 
 1. **Chatbot**: Have conversations with a chatbot that remembers past interactions.
 2. **Image Caption Generator**: Upload an image and receive a short caption for it.

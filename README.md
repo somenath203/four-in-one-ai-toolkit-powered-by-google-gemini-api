@@ -9,7 +9,7 @@ This application, built using `Streamlit` and `Google Gemini API`, offers four m
 
 ## Deployed Link of the Streamlit Webapp
 
-https://github.com/somenath203/4-in-1-AI-Toolkit-powered-by-Google-Gemini
+https://four-in-one-ai-toolkit-powered-by-gemini-api.streamlit.app/
 
 ## Note
 

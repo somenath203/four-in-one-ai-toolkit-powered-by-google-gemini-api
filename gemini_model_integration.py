@@ -14,7 +14,7 @@ genai.configure(api_key=google_gemini_api_key)
 
 def load_gemini_model():
     
-    gemini_model = genai.GenerativeModel('gemini-pro')
+    gemini_model = genai.GenerativeModel('gemini-1.5-flash')
 
     return gemini_model
 

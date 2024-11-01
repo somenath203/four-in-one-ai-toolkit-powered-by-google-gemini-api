@@ -32,7 +32,7 @@ def change_role_in_streamlit_app(role):
 
 def load_gemini_pro_vision_model(prompt, image):
 
-    gemini_model = genai.GenerativeModel('gemini-pro-vision')
+    gemini_model = genai.GenerativeModel('gemini-1.5-flash')
 
     response = gemini_model.generate_content([prompt, image])
 
